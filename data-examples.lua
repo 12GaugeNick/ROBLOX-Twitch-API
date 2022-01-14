@@ -49,7 +49,7 @@
     module.GetViewership("12Gauge_Nick") : string
     	999
     
-    module.GetLiveStatus("12Gauge_Nick") : boolean -- FIXING --
+    module.GetLiveStatus("12Gauge_Nick") : boolean
     	false
     	
     module.GetThumbnail("12Gauge_Nick") : string
